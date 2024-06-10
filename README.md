@@ -18,5 +18,5 @@ This repository includes the following sorting algorithms:
 Clone the repository to your local machine:
 
 ```sh
-https://github.com/yourusername/sorting-algorithms.git
+https://github.com/Mutez-Rahal/Sort-Algorithm.git
 
